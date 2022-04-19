@@ -1,0 +1,14 @@
+D:\AUB\VendingMachine\VendingMachineSimulator\bin\Debug\netcoreapp3.1\VendingMachineSimulator.exe
+D:\AUB\VendingMachine\VendingMachineSimulator\bin\Debug\netcoreapp3.1\VendingMachineSimulator.deps.json
+D:\AUB\VendingMachine\VendingMachineSimulator\bin\Debug\netcoreapp3.1\VendingMachineSimulator.runtimeconfig.json
+D:\AUB\VendingMachine\VendingMachineSimulator\bin\Debug\netcoreapp3.1\VendingMachineSimulator.runtimeconfig.dev.json
+D:\AUB\VendingMachine\VendingMachineSimulator\bin\Debug\netcoreapp3.1\VendingMachineSimulator.dll
+D:\AUB\VendingMachine\VendingMachineSimulator\bin\Debug\netcoreapp3.1\VendingMachineSimulator.pdb
+D:\AUB\VendingMachine\VendingMachineSimulator\obj\Debug\netcoreapp3.1\VendingMachineSimulator.csproj.AssemblyReference.cache
+D:\AUB\VendingMachine\VendingMachineSimulator\obj\Debug\netcoreapp3.1\VendingMachineSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\AUB\VendingMachine\VendingMachineSimulator\obj\Debug\netcoreapp3.1\VendingMachineSimulator.AssemblyInfoInputs.cache
+D:\AUB\VendingMachine\VendingMachineSimulator\obj\Debug\netcoreapp3.1\VendingMachineSimulator.AssemblyInfo.cs
+D:\AUB\VendingMachine\VendingMachineSimulator\obj\Debug\netcoreapp3.1\VendingMachineSimulator.csproj.CoreCompileInputs.cache
+D:\AUB\VendingMachine\VendingMachineSimulator\obj\Debug\netcoreapp3.1\VendingMachineSimulator.dll
+D:\AUB\VendingMachine\VendingMachineSimulator\obj\Debug\netcoreapp3.1\VendingMachineSimulator.pdb
+D:\AUB\VendingMachine\VendingMachineSimulator\obj\Debug\netcoreapp3.1\VendingMachineSimulator.genruntimeconfig.cache
